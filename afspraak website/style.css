@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+}
+div.a {
+    background-color: green;
+    width: 500px;
+    height: 200px;
+    font-family: Times New Roman;
+}
+
+div.b {
+    text-align: center;
+    background-color: green;
+    width: 500px;
+    height: 350px;
+    font-family: Times New Roman;
+}
+
+div.c{
+    width: 500px;
+    height: 342px;
+    font-family: Times New Roman;
+}
+
+div.d{
+        text-align: center;
+    background-color: green;
+    width: 500px;
+    height: 200px;
+    font-family: Times New Roman;
+}
